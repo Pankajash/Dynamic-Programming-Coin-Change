@@ -1,11 +1,3 @@
-You have a fantastic interactive web page for the **Unique Paths** problem, not Coin Change! The HTML, CSS, and JavaScript are all set up to visualize and explain the Unique Paths DP concept.
-
-It's a common confusion as both are classic Dynamic Programming problems.
-
-Here's a README.md specifically tailored for your provided HTML file, explaining the **Unique Paths problem** and how your interactive visualization works.
-
----
-
 ## 🚀 Unique Paths DP Visualizer
 
 This project is an interactive web-based tool that visualizes and explains the **Unique Paths** problem using Dynamic Programming (DP). A robot starts at the top-left corner of an `M x N` grid and can only move either down or right at any point. The goal is to find the number of unique paths the robot can take to reach the bottom-right corner.
